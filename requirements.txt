@@ -51,7 +51,7 @@ six==1.11.0
 social-auth-core==1.4.0
 sompy==0.1.1
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.24.2
 userprofile==0.2.5
 websocket-client==0.47.0
 Werkzeug==0.12.2
